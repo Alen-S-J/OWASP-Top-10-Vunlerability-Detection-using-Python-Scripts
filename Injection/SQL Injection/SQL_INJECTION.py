@@ -104,5 +104,5 @@ def scan_sql_injection(url):
                 break
             
 if __name__ == "__main__":
-    url = "https://demo.testfire.net/"
+    url = "ENTER_YOUR_WEBSITE_URL"
     scan_sql_injection(url)
