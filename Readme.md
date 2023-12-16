@@ -42,9 +42,5 @@ To use these scripts, ensure you have:
 
 The Python scripts currently cover detection for the following OWASP Top 10 vulnerabilities:
 
-1. SQL Injection
-
-
-## Contributing
-
-Contributions to enhance the detection capabilities or address issues are welcome! Fork the repository, make your changes, and create a pull request.
+1.Injection[SQL injection]
+2. 
