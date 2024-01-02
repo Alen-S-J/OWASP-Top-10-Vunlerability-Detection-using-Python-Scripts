@@ -7,36 +7,6 @@ This Python script is designed to identify potential SQL injection vulnerabiliti
 - **URL Testing**: Checks the provided URL for potential SQL injection vulnerabilities directly by appending quotes to the URL parameters.
 - **HTML Form Analysis**: Scans HTML forms on the page and submits test payloads to identify possible SQL injection vulnerabilities.
 
-## Prerequisites
-
-- Python 3.x
-- Required Python libraries (`requests`, `BeautifulSoup`) installed. Install them via:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/sql-injection-scanner.git
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the script:
-
-    ```bash
-    python scan_sql_injection.py
-    ```
-
-4. Provide the URL to be scanned as prompted.
 
 ## Vulnerability Detection
 
